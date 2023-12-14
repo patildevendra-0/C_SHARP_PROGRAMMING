@@ -1,0 +1,14 @@
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/bin/Debug/net8.0/Console_Demo
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/bin/Debug/net8.0/Console_Demo.deps.json
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/bin/Debug/net8.0/Console_Demo.runtimeconfig.json
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/bin/Debug/net8.0/Console_Demo.dll
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/bin/Debug/net8.0/Console_Demo.pdb
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.AssemblyInfoInputs.cache
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.AssemblyInfo.cs
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.csproj.CoreCompileInputs.cache
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.dll
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/refint/Console_Demo.dll
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.pdb
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.genruntimeconfig.cache
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/ref/Console_Demo.dll
