@@ -12,3 +12,4 @@
 /home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.pdb
 /home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.genruntimeconfig.cache
 /home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/ref/Console_Demo.dll
+/home/devendra/Desktop/C_SHARP_PROGRAMMING/Console_Demo/obj/Debug/net8.0/Console_Demo.sourcelink.json
